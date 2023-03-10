@@ -1,0 +1,1 @@
+/Users/franziskak/Desktop/DreamIt/RockPaperScissors/build/classes/kotlin/main/MainKt$WhenMappings.class:/Users/franziskak/Desktop/DreamIt/RockPaperScissors/build/classes/kotlin/main/MainKt.class:/Users/franziskak/Desktop/DreamIt/RockPaperScissors/build/classes/kotlin/main/Result.class:/Users/franziskak/Desktop/DreamIt/RockPaperScissors/build/classes/kotlin/main/Weapon.class
